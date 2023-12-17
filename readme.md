@@ -1,5 +1,5 @@
 # IRValidator
-IRValidator is a library that provides validation for various Iranian identification systems. It includes validation for cards, national IDs, and phone numbers.
+IRValidator is a C library that provides validation for various Iranian identification systems. It includes validation for cards, national IDs, and phone numbers.
 
 ## Building
 To build the library, you need a C compiler and the make utility. Once you have these installed, you can build the library by running:
